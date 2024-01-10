@@ -1,0 +1,30 @@
+
+
+.textstyle {
+    text-shadow: 3px 2px 4px #ffffff;
+    text-decoration: underline;
+}
+
+.photo {
+    background-image: url(../images/background.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.hover1:hover {
+    color: $info;
+}
+
+.hover2:hover {
+    color: $danger;
+}
+
+.hover3:hover {
+    color: $primary;
+}
+
+.hover4:hover {
+    color: white;
+}
